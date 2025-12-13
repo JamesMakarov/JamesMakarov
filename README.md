@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hello,+I'm+Thiago!+👋;CS+Student+@+UFC.;Java+&+Python+Developer.;Building+the+future.+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hello,+I'm+Thiago!+👋;CS+Student+@+UFC.;Building+Robust+Backends.;Exploring+Quantum+Realms.+" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jbp6mV/giphy.gif" width="250px" alt="Coding GIF" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coding GIF" style="border-radius: 10px;"/>
   <br/>
   <h3>
     ✨ JamesMakarov (Thiago Monteiro) ✨
@@ -22,7 +20,7 @@
 
 I'm a Computer Science student at **UFC (Federal University of Ceará)**. My journey involves building robust, scalable backend systems while keeping a strong foot in computational theory.
 
-I specialize in **Java (Spring Boot)** and **Python (Django)** ecosystem, creating solutions that solve real-world problems. Simultaneously, I explore the depths of computer graphics and quantum algorithms to understand the "why" behind the "how".
+I specialize in the **Java (Spring Boot)** and **Python (Django)** ecosystem, creating solutions that solve real-world problems. Simultaneously, I explore the depths of computer graphics and quantum algorithms to understand the "why" behind the "how".
 
 > *"Engineering solutions from the cloud down to the metal."*
 
@@ -54,12 +52,13 @@ I specialize in **Java (Spring Boot)** and **Python (Django)** ecosystem, creati
 
 <div align="center">
   <a href="https://github.com/JamesMakarov">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesMakarov&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMakarov&layout=compact&theme=radical&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesMakarov&show_icons=true&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMakarov&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
   </a>
 </div>
+<br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamesMakarov&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamesMakarov&theme=radical" />
 </div>
 
 ---
