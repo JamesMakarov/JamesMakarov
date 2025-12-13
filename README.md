@@ -3,9 +3,6 @@
 </div>
 
 <div align="center">
-  <br/>
- 
-  <br/>
   <h3>
     ✨ JamesMakarov (Thiago Monteiro) ✨
   </h3>
