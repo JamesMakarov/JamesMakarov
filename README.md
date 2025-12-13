@@ -4,7 +4,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coding GIF" style="border-radius: 10px;"/>
+ 
   <br/>
   <h3>
     ✨ JamesMakarov (Thiago Monteiro) ✨
