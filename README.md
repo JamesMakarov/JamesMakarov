@@ -1,80 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=JamesMakarov+(Thiago);Software+Engineer;Quantum+Computing+Research;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>💻 Enterprise Solutions & ⚛️ Scientific Computing</h3>
-  <br/>
-</div>
-
----
-
-### 🚀 Who I Am
-
-I am a Computer Science student at **UFC (Federal University of Ceará)** navigating the intersection of **High-Performance Backend Systems** and **Theoretical Computer Science**.
-
-* 🔭 **Current Focus:** Architecting scalable microservices with **Spring Boot** & researching **Quantum Algorithms**.
-* 💡 **Superpower:** I bridge the gap between abstract math (Linear Algebra, Quantum Mechanics) and real-world software engineering.
-* 🎓 **Goal:** Engineering solutions from the cloud down to the metal.
-
----
-
-### 🛠️ The Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h4>☕ Backend & Enterprise</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h4>⚛️ Scientific & Low Level</h4>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Oz_Mozart-000000?style=for-the-badge&logo=mozart&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h4>🌐 Web & Tools</h4>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Metrics & Activity
-
-<div align="center">
-  <a href="https://github.com/JamesMakarov">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JamesMakarov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMakarov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&multiline=true&width=500&height=100&lines=JamesMakarov;Software+Engineer+%7C+UFC;Quantum+Computing+%26+Graphics" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <b>Welcome to my digital lab.</b>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamesMakarov&theme=tokyonight&bg_color=00000000" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JamesMakarov&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+---
+
+### ⚡ The Neural Network (About Me)
+
+[cite_start]I am a Computer Science student at **UFC**, engineering the bridge between **Enterprise Systems** and **Scientific Theory**[cite: 2, 13].
+
+> [cite_start]🧠 **Core Philosophy:** *"Engineering solutions from the cloud down to the metal."* [cite: 6, 17]
+
+* [cite_start]🔭 **Research:** Currently diving deep into **Quantum Algorithms** and **Computer Graphics** (Shaders/Rendering)[cite: 5, 10, 11].
+* [cite_start]💼 **Enterprise:** Building robust microservices with **Spring Boot** & **Django**[cite: 4, 15].
+* [cite_start]🎓 **Status:** CS Student @ UFC (Federal University of Ceará)[cite: 3].
+
+---
+
+### 🛠️ Tech Arsenal & Stack
+
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oz_Mozart-000000?style=for-the-badge&logo=mozart&logoColor=white"/>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+### 📊 Live Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesMakarov&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMakarov&layout=compact&theme=react&bg_color=0d1117&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/JamesMakarov/JamesMakarov/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3>📫 Let's Connect</h3>
-  <p><i>Building the future, one line of code (or qubit) at a time.</i></p>
   
   <a href="https://www.linkedin.com/in/thiago-monteiro-nogueira-9b0991205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:thiagonogueira@alu.ufc.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
+  <p><i>"The code is the law, but physics is the limit."</i></p>
 </div>
