@@ -7,66 +7,68 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science student at UFC (Federal University of Ceará)** focused on **software engineering**, with strong interest in **backend systems, architecture, and performance**.
+I am a **Computer Science student at UFC (Federal University of Ceará)** with a strong focus on **software engineering**, especially **backend development and system-level fundamentals**.
 
-I prioritize **clean code, maintainability, and solid fundamentals** over hype. My background combines academic rigor with practical system design.
+I value **clarity, correctness, and maintainability** over buzzwords. My goal is to deeply understand how software works — from architecture decisions down to execution details.
 
 - 🎯 **Main focus:** Backend development with Java & Spring Boot  
 - 🧠 **Core interests:** Software architecture, data structures, operating systems, and networking  
-- ⚙️ **Mindset:** Build systems that are understandable, testable, and scalable  
-- 🎓 **Goal:** Become a strong, reliable software engineer with deep technical foundations  
+- ⚙️ **Approach:** Practical engineering grounded in solid fundamentals  
+- 🎓 **Goal:** Become a reliable and technically strong software engineer  
 
 ---
 
 ### 🧰 Technical Skills
 
 #### Backend & Core Languages
-- **Java** (OOP, SOLID, Collections, Streams)
-- **Spring Boot** (REST APIs, Dependency Injection, layered architecture)
-- **Python** (automation, scripting, backend basics)
-- **Kotlin** (JVM ecosystem)
+- **Java** — OOP, SOLID, Collections, Streams
+- **Spring Boot** — REST APIs, DI, layered architecture
+- **Python** — scripting, automation, backend basics
+- **Kotlin** — JVM ecosystem
 
 #### Systems & Low-Level
-- **C / C++** (memory, pointers, data structures)
-- **Operating Systems concepts** (processes, memory, concurrency)
-- **Networking fundamentals** (TCP/IP, client-server model)
+- **C / C++** — memory management, pointers, data structures
+- **Operating Systems** — processes, memory, concurrency (conceptual & practical)
+- **Computer Networks** — TCP/IP, client-server model
 
 #### Web & Tooling
 - **JavaScript**
-- **Angular** (basic frontend integration)
-- **Docker** (containerization basics)
-- **Git** (version control, collaboration workflows)
+- **Angular**
+- **Docker**
+- **Git**
 
 ---
 
-### 🧠 Engineering Principles I Care About
+### 🧠 Engineering Principles
 
 - Clean and readable code
 - Separation of concerns
-- Explicit over implicit behavior
-- Understanding what runs **under the hood**
+- Explicit design over hidden magic
+- Understanding performance and trade-offs
 - Avoiding unnecessary abstractions
 
 ---
 
-### 📂 What You’ll Find Here
+### 📂 Repository Focus
 
-This GitHub contains:
+This GitHub profile contains:
 - Academic projects from Computer Science
-- Backend applications and APIs
-- Experiments with system-level programming
-- Code written with learning, clarity, and correctness as priorities
+- Backend APIs and system-oriented code
+- Exercises focused on fundamentals
+- Code written with clarity and learning as priorities
 
-I prefer **few well-structured projects** over many shallow ones.
+Quality and structure matter more than quantity.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JamesMakarov&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMakarov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JamesMakarov&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMakarov&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
+
+> The statistics above display **total commits**, **number of languages used**, and **language usage percentages** across public repositories.
 
 ---
 
