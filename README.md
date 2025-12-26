@@ -1,7 +1,7 @@
 <div align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=JamesMakarov+(Thiago);Software+Engineer;Quantum+Computing;Full+Stack+Developer" alt="Typing SVG" />  
 </div>  <div align="center">  
-  <h3>💻 Enterprise Solutions & ⚛️ Scientific Computing</h3>  
+  <h3>💻 Software Engineer & ⚛️ Scientific Computing</h3>  
   <br/>  
 </div>  
 ---
