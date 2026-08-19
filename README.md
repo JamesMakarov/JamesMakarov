@@ -67,7 +67,7 @@ I am a Computer Science student at UFC (Federal University of Ceará) navigating
   <p><i>Building the future, one line of code (or qubit) at a time.</i></p>    <a href="https://www.linkedin.com/in/thiago-monteiro-nogueira-9b0991205/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
   </a>  
-  <a href="mailto:seu-email-aqui@exemplo.com">  
+  <a href="mailto:thiago988159307@gmail.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
   </a>  
-</div>  Me faz outro readme, mas dessa vez, faz algo mais pra engenheira de software e menos utopia.
+</div>
