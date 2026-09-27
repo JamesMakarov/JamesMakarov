@@ -2,9 +2,9 @@
 
 **Computer Science student focused on backend development, algorithms and systems.**
 
-I study Computer Science at the Federal University of Ceará (UFC) and build projects across web development, desktop software, algorithms, numerical computing and lower-level programming.
+I study Computer Science at the Federal University of Ceará (UFC) and build projects across backend development, desktop software, algorithms, numerical computing and systems programming.
 
-My current work is centered on strengthening software engineering fundamentals while building practical applications with Python, Java, C and C++.
+My main direction is **Backend / Software Engineering**. I am currently strengthening the areas that matter in product engineering environments: automated testing, relational databases, containerization, CI/CD, service reliability, algorithms and maintainable system design.
 
 ## Selected projects
 
@@ -87,11 +87,19 @@ JavaFX · Tkinter · CustomTkinter
 
 Git · GitHub · Linux · VS Code
 
-## Areas of interest
+## Engineering focus
 
-- Backend development
+- Backend development and APIs
+- Relational databases and data modeling
+- Automated testing
+- Docker and reproducible environments
+- CI/CD and code quality
+- Service reliability and observability
 - Algorithms and data structures
 - Software architecture
+
+## Additional interests
+
 - Systems programming
 - Numerical computing
 - Computer graphics
