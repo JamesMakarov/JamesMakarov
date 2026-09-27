@@ -18,7 +18,9 @@ Web application for automated answer-sheet processing.
 - image upload and review workflow;
 - native C/C++ image-processing library integrated with Python;
 - automated answer extraction and scoring;
-- containerized application and database.
+- containerized application and database;
+- automated Django tests and Docker validation in CI;
+- health checks, Gunicorn and documented architecture/scaling decisions.
 
 ### [JamesVox](https://github.com/JamesMakarov/voice-system-jamesvox)
 
@@ -42,7 +44,8 @@ Interactive JavaFX application for visualizing Dijkstra's shortest-path algorith
 - weighted directed edges;
 - animated algorithm execution;
 - event-based separation between algorithm and UI;
-- background execution with JavaFX UI synchronization.
+- background execution with JavaFX UI synchronization;
+- JUnit tests executed in CI.
 
 ### [C++ Ray Tracer](https://github.com/JamesMakarov/ray-tracer-cpp)
 
@@ -55,7 +58,8 @@ CPU renderer implemented from scratch for a Computer Graphics course.
 - Blinn-Phong lighting;
 - shadows and textures;
 - transformation matrices;
-- interactive pixel picking.
+- interactive pixel picking;
+- C++ tests for vector and transformation-matrix primitives.
 
 ### [Numerical Methods](https://github.com/JamesMakarov/Metodos-Numericos)
 
